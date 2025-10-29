@@ -1,6 +1,17 @@
 # Java Game API - 1311.uk
 
-A Java-based game API project for the 1311.uk domain, built with Java 17.
+A Java-based game API project for the 1311.uk domain, built with Java 17 to learn elements from the Keycloack stack.
+
+## Documentation
+
+### 📚 Study Plans & Learning Paths
+- **[Full-Stack Learning Plan](docs/keycloak-stack-learning-plan.md)** - Comprehensive roadmap for Java backend + React frontend development, including Keycloak authentication integration
+- **[Java Version Manager Setup](docs/java-version-manager-setup.md)** - Complete guide for setting up jenv on macOS with Java 17 for this project
+
+### 🚀 Project Management
+- **[Next Steps](NEXT-STEPS.md)** - Current project status, priorities, and session continuity tracking
+- **[AI Shortcuts](.ai-shortcuts.md)** - Development workflow shortcuts and conventional commit setup
+
 
 ## Project Structure
 

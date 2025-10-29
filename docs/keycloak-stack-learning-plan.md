@@ -1,4 +1,4 @@
-# Full-Stack Game API Learning Plan
+# Full-Stack Game API Learning Plan for Keycloak Stack
 *Java Backend + React Frontend + Keycloak Authentication*
 
 ## Prerequisites
